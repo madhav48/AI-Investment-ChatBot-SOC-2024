@@ -1,3 +1,5 @@
-#AI Investement Chatbot
+**AI Investement Chatbot**
 
-To run the bot, run streamlit run app.py
+To run the bot, run 
+
+``streamlit run app.py``
